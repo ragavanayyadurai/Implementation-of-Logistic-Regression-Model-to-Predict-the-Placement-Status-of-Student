@@ -1,4 +1,4 @@
-# EX 04-Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
+# Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
 # EXPERIMENT NO: 4
 # DATE: 19.09.23
 ## AIM:
